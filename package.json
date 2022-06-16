@@ -1,0 +1,24 @@
+{
+  "name": "fc3.0-sonar-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardoquintania/fc3.0-sonar-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardoquintania/fc3.0-sonar-javascript/issues"
+  },
+  "homepage": "https://github.com/leonardoquintania/fc3.0-sonar-javascript#readme",
+  "dependencies": {
+    "@types/jest": "^28.1.1",
+    "jest": "^28.1.1",
+    "sonar-scanner": "^3.1.0"
+  }
+}
